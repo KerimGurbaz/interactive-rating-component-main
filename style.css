@@ -19,7 +19,7 @@ body {
 }
 
 .visibility {
-  display: block;
+  display: none;
 }
 
 .container {
